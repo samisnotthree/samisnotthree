@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/samisnotthree) [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/samisnotthree) [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/samisnotthree) [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)](https://github.com/samisnotthree) [![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white)](https://github.com/samisnotthree)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/samisnotthree) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](https://github.com/samisnotthree) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/samisnotthree) [![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/samisnotthree) 
 
 작성중..
