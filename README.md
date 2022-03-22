@@ -1,4 +1,4 @@
-#### 👋 Hi there! I'm backend developer using Java and Spring
+#### 👋 Hi there! I'm backend developer using Java and Spring.
 
 <!--
 **samisnotthree/samisnotthree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
